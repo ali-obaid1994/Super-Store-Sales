@@ -14,7 +14,7 @@ The primary objective of this project is to acquire valuable insights and achiev
 
 ### Description
 
-The primary goal can be dissected into the following detailed elements:
+The main objective can be broken down into the following specific components:
 
 1. Creation of Dashboard: Identify key performance indicators (KPIs), develop an easy-to-understand and visually attractive dashboard, incorporate interactive visualizations, and implement filtering capabilities to enable users to delve into the data at various levels of detail.
 
