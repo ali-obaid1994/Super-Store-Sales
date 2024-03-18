@@ -37,4 +37,4 @@ We encourage contributions! Please feel free to raise issues, contribute pull re
 
 This dashboard is intended solely for demonstration purposes and may require additional customization and validation before being deemed suitable for production use.
 
-I trust that this serves as a useful foundation for your README file. Please feel free to make adjustments and incorporate any specific details relevant to the project and data sources.
+I trust that this serves as a useful foundation for your README file.Please feel free to make adjustments and incorporate any specific details relevant to the project and data sources.
